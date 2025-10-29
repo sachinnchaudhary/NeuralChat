@@ -1,7 +1,7 @@
 # NeuralChat  
 **Zero-rupee cost LLM for understanding the end-to-end process of building, fine-tuning, and aligning a language model using free colab resource.**
 
-### Note: The focus of building NueralChat is to understand the process which happens when you train this LLM from pre-training to RLHF using PPO, So you can understand all aspects of it. 
+**Note: The focus of building NueralChat is to understand the process which happens when you train this LLM from pre-training to RLHF using PPO, So you can understand all aspects of it. 
 Additionally this entire project is built on Colab free tier resource using T4-gpu with cost of 0 bucks. So having 0 buck budget we not get optimized answer from LLM and it produces giberrish answer. 
 But it's totally possible to get decent coherent answer with increasing compute on this same code. and i will eventually try this same code once i'll have enough compute :)
 ---
