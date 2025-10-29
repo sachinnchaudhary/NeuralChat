@@ -8,7 +8,7 @@ But it's totally possible to get decent coherent answer with increasing compute 
 ---
 
 ## Overview
-**NeuralChat** is a lightweight, educational LLM project designed to help learner's to understand the **complete lifecycle of training and aligning a transformer-based chatbot** — all using free resources like Google Colab and Hugging Face Spaces.
+**NeuralChat** is a lightweight, educational LLM project designed to help learner's to understand the **complete lifecycle of training and aligning a transformer-based chatbot** all using free resources like Google Colab and Hugging Face Spaces.
 
 This repository reproduces the full journey from scratch:
 1.  **Pretraining** — > learn next-token prediction on WikiText-2.  
