@@ -7,14 +7,14 @@ But it's totally possible to get decent coherent answer with increasing compute 
 ---
 
 ## Overview
-**NeuralChat** is a lightweight, educational LLM project designed to help students, researchers, and enthusiasts understand the **complete lifecycle of training and aligning a transformer-based chatbot** — all using free resources like Google Colab and Hugging Face Spaces.
+**NeuralChat** is a lightweight, educational LLM project designed to help learner's to understand the **complete lifecycle of training and aligning a transformer-based chatbot** — all using free resources like Google Colab and Hugging Face Spaces.
 
 This repository reproduces the full journey from scratch:
-1.  **Pretraining** — learn next-token prediction on WikiText-2.  
-2.  **Supervised Fine-Tuning (SFT)** — train on instruction-response datasets (e.g., Alpaca).  
-3.  **Reinforcement Learning with Human Feedback (RLHF)** — apply PPO with a learned reward model.  
-4.  **Human Evaluation** — compare model quality across stages.  
-5.  **Inference / Deployment** — deploy on Hugging Face Spaces via Gradio.
+1.  **Pretraining** — > learn next-token prediction on WikiText-2.  
+2.  **Supervised Fine-Tuning (SFT)** — > train on instruction-response datasets (e.g., Alpaca).  
+3.  **Reinforcement Learning with Human Feedback (RLHF)** — >apply PPO with a learned reward model.  
+4.  **Human Evaluation** — > compare model quality across stages.  
+5.  **Inference / Deployment** —> deploy on Hugging Face Spaces via Gradio.
 
 All steps are implemented in modular Python scripts so you can reproduce and extend every phase independently.
 
